@@ -4,3 +4,6 @@ venv/
 # Others
 .ipynb_checkpoints
 .vscode
+testing/.pytest_cache
+testing/__pycache__
+testing/app/__pycache__
