@@ -1,5 +1,5 @@
 import pytest
-from app.test_exercise import admin_command
+from app1.test_exercise import admin_command
 
 class TestCommand:
 
